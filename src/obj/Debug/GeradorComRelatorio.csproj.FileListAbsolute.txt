@@ -1,0 +1,28 @@
+c:\users\filip\documents\visual studio 2015\Projects\GeradorComRelatorio\GeradorComRelatorio\bin\Debug\GeradorComRelatorio.exe.config
+c:\users\filip\documents\visual studio 2015\Projects\GeradorComRelatorio\GeradorComRelatorio\bin\Debug\GeradorComRelatorio.exe
+c:\users\filip\documents\visual studio 2015\Projects\GeradorComRelatorio\GeradorComRelatorio\bin\Debug\GeradorComRelatorio.pdb
+c:\users\filip\documents\visual studio 2015\Projects\GeradorComRelatorio\GeradorComRelatorio\obj\Debug\GeradorComRelatorio.csprojResolveAssemblyReference.cache
+c:\users\filip\documents\visual studio 2015\Projects\GeradorComRelatorio\GeradorComRelatorio\obj\Debug\GeradorComRelatorio.Form1.resources
+c:\users\filip\documents\visual studio 2015\Projects\GeradorComRelatorio\GeradorComRelatorio\obj\Debug\GeradorComRelatorio.Properties.Resources.resources
+c:\users\filip\documents\visual studio 2015\Projects\GeradorComRelatorio\GeradorComRelatorio\obj\Debug\GeradorComRelatorio.csproj.GenerateResource.Cache
+c:\users\filip\documents\visual studio 2015\Projects\GeradorComRelatorio\GeradorComRelatorio\obj\Debug\GeradorComRelatorio.exe
+c:\users\filip\documents\visual studio 2015\Projects\GeradorComRelatorio\GeradorComRelatorio\obj\Debug\GeradorComRelatorio.pdb
+C:\Users\filip\documents\visual studio 2015\Projects\GeradorComRelatorio\GeradorComRelatorio\obj\Debug\RdlCompile.cache
+C:\Users\filip\documents\visual studio 2015\Projects\GeradorComRelatorio\GeradorComRelatorio\obj\Debug\RdlCompile.compiled
+C:\Users\filip\documents\visual studio 2015\Projects\GeradorComRelatorio\GeradorComRelatorio\obj\Debug\GeradorComRelatorio.Form2.resources
+C:\Users\filip\documents\visual studio 2015\Projects\GeradorComRelatorio\GeradorComRelatorio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\filip\documents\visual studio 2015\Projects\GeradorComRelatorio\GeradorComRelatorio\obj\Debug\GeradorComRelatorio.Form3.resources
+F:\Atividades Recorrentes\Reportss\2.0=AgoraComPizza\GeradorComRelatorio\GeradorComRelatorio\bin\Debug\GeradorComRelatorio.exe.config
+F:\Atividades Recorrentes\Reportss\2.0=AgoraComPizza\GeradorComRelatorio\GeradorComRelatorio\obj\Debug\GeradorComRelatorio.exe
+F:\Atividades Recorrentes\Reportss\2.0=AgoraComPizza\GeradorComRelatorio\GeradorComRelatorio\obj\Debug\GeradorComRelatorio.pdb
+F:\Atividades Recorrentes\Reportss\2.0=AgoraComPizza\GeradorComRelatorio\GeradorComRelatorio\bin\Debug\GeradorComRelatorio.exe
+F:\Atividades Recorrentes\Reportss\2.0=AgoraComPizza\GeradorComRelatorio\GeradorComRelatorio\bin\Debug\GeradorComRelatorio.pdb
+F:\Atividades Recorrentes\Reportss\2.0=AgoraComPizza\GeradorComRelatorio\GeradorComRelatorio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Atividades Recorrentes\Reportss\2.0=AgoraComPizza\GeradorComRelatorio\GeradorComRelatorio\obj\Debug\GeradorComRelatorio.csprojResolveAssemblyReference.cache
+F:\Atividades Recorrentes\Reportss\2.0=AgoraComPizza\GeradorComRelatorio\GeradorComRelatorio\obj\Debug\GeradorComRelatorio.Form1.resources
+F:\Atividades Recorrentes\Reportss\2.0=AgoraComPizza\GeradorComRelatorio\GeradorComRelatorio\obj\Debug\GeradorComRelatorio.Form2.resources
+F:\Atividades Recorrentes\Reportss\2.0=AgoraComPizza\GeradorComRelatorio\GeradorComRelatorio\obj\Debug\GeradorComRelatorio.Form3.resources
+F:\Atividades Recorrentes\Reportss\2.0=AgoraComPizza\GeradorComRelatorio\GeradorComRelatorio\obj\Debug\GeradorComRelatorio.Properties.Resources.resources
+F:\Atividades Recorrentes\Reportss\2.0=AgoraComPizza\GeradorComRelatorio\GeradorComRelatorio\obj\Debug\GeradorComRelatorio.csproj.GenerateResource.Cache
+F:\Atividades Recorrentes\Reportss\2.0=AgoraComPizza\GeradorComRelatorio\GeradorComRelatorio\obj\Debug\RdlCompile.cache
+F:\Atividades Recorrentes\Reportss\2.0=AgoraComPizza\GeradorComRelatorio\GeradorComRelatorio\obj\Debug\RdlCompile.compiled
